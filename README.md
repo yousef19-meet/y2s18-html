@@ -12,7 +12,7 @@ cd y2s18-html
 
 ### 3. Create a webpage with the following items:
 - A title for your page
-- H1 heading: "Welcome to MEET Y2 Summer 2017"
+- H1 heading: "Welcome to MEET Y2 Summer 2018"
 - H2 heading with the date
 - H3 heading with your and your teammate names
 - Two to three paragraphs introducing yourselves (2-5 lines)
@@ -55,22 +55,8 @@ Remember to add a border and headings!
 
 ### 4. Check off with an instructor or a TA.
 
-## Lab 4: Lists
 
-### 1. Switch with your partner. 
-
-### 2. Make an unordered list.
-List several of your favorite movies.
-
-### 3. Make an ordered list.
-List several of your favorite books, in order.
-
-### 4. Check off with an instructor or a TA.
-
-### 5. Extra:
-Go to [w3schools.com](https://www.w3schools.com/html/html_lists.asp) and read the page on HTML lists. Change the type of your ordered list, the style of your unordered list, and make a description list.
-
-## Lab 5: Forms
+## Lab 4: Forms
 
 ### 1. Remember to switch.
 
@@ -89,7 +75,7 @@ To the same form, add radio buttons to let the user pick if they are a MEET Staf
 ### Extra:
 On your own, figure out how to use the textarea tag. Add it to your form. 
 
-## Lab 6:
+## Lab 5:
 
 ### 1. Organize your document with div.
 Put the content from Lab 1 in a div with class "intro".
