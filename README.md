@@ -20,7 +20,7 @@ cd y2s18-html
 ### 4. Checkoff with an instructor or TA when you are done.
 
 #### Extra:
-Go to [w3schools.com](w3schools.com), read about HTML formatting and learn about some other tags that exist. Try using them!
+Go to [w3schools.com](https://www.w3schools.com/html/html_formatting.asp), read about HTML formatting and learn about some other tags that exist. Try using them!
 
 
 ## Lab 2: Attributes
