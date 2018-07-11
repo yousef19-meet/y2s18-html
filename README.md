@@ -88,7 +88,7 @@ Try using both color, background-color, and text-align.
 ### 3. Check of with an instructor or TA.
 
 ### Extra: Make it pretty!
-Play around with your web page, changing styles and adding more content. Think about how you want things to be organized, and you div to do so. 
+Play around with your web page, changing the styles and adding more content. Think about how you want things to be organized, and use div to do so. 
 
 
 
