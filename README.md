@@ -77,7 +77,7 @@ Put your form in a div with id "form".
 ### 2. For each div, give a style.
 Try using both color, background-color, and text-align.
 
-### 3. Commit your changes!
+### 3. Commit your changes.
 Remember to `git add` your file, and then `git commit -m "your message"` to save it to the local repository.
 
 ### 4. Check off with an instructor or TA.
