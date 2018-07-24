@@ -9,12 +9,14 @@ cd y2s18-html
 
 ### 2. Open the 'hello.html' file using your favorite text editor
 
-### 3. Create a webpage with the following items:
-- A title for your page
-- H1 heading: "Welcome to MEET Y2 Summer 2018"
-- H2 heading with the date
-- H3 heading with your name
-- Two to three paragraphs introducing yourself, or an animal you like, or another topic you care about (2-5 lines)
+### 3. Create a webpage about you or a topic you like:
+- A <header> 
+- Add/change <title> for your page
+- A <body> tag
+- A <p> paragraph inside you <body> tag
+- A <h1> tag inside the <body> tag
+- A <h2> tag inside <body> tag
+Not sure what to do? See the html example [here] (https://www.w3schools.com/)
 
 ### 4. Checkoff with an instructor or TA when you are done.
 
@@ -84,13 +86,3 @@ Remember to `git add` your file, and then `git commit -m "your message"` to save
 
 ### Extra: Make it pretty!
 Play around with your web page, changing the styles and adding more content. Think about how you want things to be organized, and use div to do so. 
-
-
-
-
-
-
-
-
-
-
