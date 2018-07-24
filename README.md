@@ -13,7 +13,7 @@
 git clone <LINK-FROM-STEP-2>
 ```
 
-### 2. Open the 'hello.html' file using your favorite text editor
+### 2. Open the 'hello.html' file using sublime text
 
 ### 3. Create a webpage about you or a topic you like:
 - A header tag
