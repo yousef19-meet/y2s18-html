@@ -3,10 +3,10 @@
 ### 1. Get the lab's code
 
 1. Fork this repository by clicking "Fork" on this page:
-![forking](https://ibb.co/h6FLR8)
+![forking](https://image.ibb.co/jHRieT/forking.png)
 
 2. Copy this repository's url but clicking the green clone button:
-![copying url](https://ibb.co/krmAR8)
+![copying url](https://image.ibb.co/n2wYeT/copying_clone.png)
 
 3. Open you terminal, and clone the repo to your computer( replace Link with link from step 2):
 ```
