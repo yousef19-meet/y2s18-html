@@ -10,12 +10,12 @@ cd y2s18-html
 ### 2. Open the 'hello.html' file using your favorite text editor
 
 ### 3. Create a webpage about you or a topic you like:
-- A <header> 
-- Add/change <title> for your page
-- A <body> tag
-- A <p> paragraph inside you <body> tag
-- A <h1> tag inside the <body> tag
-- A <h2> tag inside <body> tag
+- A header tag
+- Add/change title for your page
+- A body tag
+- A p paragraph inside you <body> tag
+- A h1 tag inside the <body> tag
+- A h2 tag inside <body> tag
 Not sure what to do? See the html example [here] (https://www.w3schools.com/)
 
 ### 4. Checkoff with an instructor or TA when you are done.
