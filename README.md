@@ -17,15 +17,15 @@ git clone <LINK-FROM-STEP-2>
 Open the 'hello.html' file using a Chrome, what do you see in the page?
 
 ### 3. Make your first html page!
-Make your first html page!
+To do that
 1. Open hello.html using sublime text
 2. Change it to be topic about you or a topic you like, your page should have the following:
-- A header tag
-- Add/change title for your page
-- A body tag
-- A p paragraph inside you <body> tag
-- A h1 tag inside the <body> tag
-- A h2 tag inside <body> tag
+  * A header tag
+  * Add/change title for your page
+  * A body tag
+  * A p paragraph inside you <body> tag
+  * A h1 tag inside the <body> tag
+  * A h2 tag inside <body> tag
  
 Not sure what to do? See the html example [here](https://www.w3schools.com/)
 
