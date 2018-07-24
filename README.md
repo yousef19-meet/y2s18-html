@@ -1,10 +1,16 @@
 # Your First HTML Page
 ## Lab 1: Basics
-### 1. Go to the repository
+### 1. Get the lab's code
 
+1. Fork this repository by clicking "Fork" on this page:
+![forking](https://ibb.co/h6FLR8)
+
+2. Copy this repository's url but clicking the green clone button:
+![copying url](https://ibb.co/krmAR8)
+
+3. Open you terminal, and clone the repo to your computer( replace Link with link from step 2):
 ```
-cd ~/Desktop/
-cd y2s18-html
+git clone <LINK-FROM-STEP-2>
 ```
 
 ### 2. Open the 'hello.html' file using your favorite text editor
