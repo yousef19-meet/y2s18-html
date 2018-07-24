@@ -1,6 +1,6 @@
 # Your First HTML Page
 ## Lab 1: Basics
-### 1. Get the lab's code
+### 1. Fork and clone this repository
 
 1. Fork this repository by clicking "Fork" on this page:
 ![forking](https://image.ibb.co/jHRieT/forking.png)
@@ -13,9 +13,13 @@
 git clone <LINK-FROM-STEP-2>
 ```
 
-### 2. Open the 'hello.html' file using a chrome, what do you see in the page?
+### 2. View hello.html in a web browser:
+Open the 'hello.html' file using a Chrome, what do you see in the page?
 
-### 3. Open hello.html using sublime text, change it to be topic about you or a topic you like:
+### 3. Make your first html page!
+Make your first html page!
+1. Open hello.html using sublime text
+2. Change it to be topic about you or a topic you like, your page should have the following:
 - A header tag
 - Add/change title for your page
 - A body tag
