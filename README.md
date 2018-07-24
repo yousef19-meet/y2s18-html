@@ -13,9 +13,9 @@
 git clone <LINK-FROM-STEP-2>
 ```
 
-### 2. Open the 'hello.html' file using sublime text
+### 2. Open the 'hello.html' file using a chrome, what do you see in the page?
 
-### 3. Create a webpage about you or a topic you like:
+### 3. Open hello.html using sublime text, change it to be topic about you or a topic you like:
 - A header tag
 - Add/change title for your page
 - A body tag
