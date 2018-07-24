@@ -44,8 +44,19 @@ Change the color or background-color of one of at least one of your headings.
 
 ### 4. Check off with an instructor or TA when you are done. 
 
+### 5. Commit and push you changes
+```
+git add hello.html
+git commit -m "added hello.html. I am a pro!"
+git push
+```
+Remember to git add your file, and then git commit -m "your message" to save it to the local repository.
+
+
 ### Extra:
 On [w3schools.com](https://www.w3schools.com/html/html_colors.asp), read about HTML Colors. Add colors specified in both HEX and rgb formats to your web page!
+
+
 
 ## Lab 3: Tables
 
