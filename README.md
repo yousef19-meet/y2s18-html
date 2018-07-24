@@ -16,7 +16,8 @@ cd y2s18-html
 - A p paragraph inside you <body> tag
 - A h1 tag inside the <body> tag
 - A h2 tag inside <body> tag
-Not sure what to do? See the html example [here] (https://www.w3schools.com/)
+ 
+Not sure what to do? See the html example [here](https://www.w3schools.com/)
 
 ### 4. Checkoff with an instructor or TA when you are done.
 
