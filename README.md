@@ -14,7 +14,7 @@ cd y2s18-html
 - H1 heading: "Welcome to MEET Y2 Summer 2018"
 - H2 heading with the date
 - H3 heading with your name
-- Two to three paragraphs introducing yourself (2-5 lines)
+- Two to three paragraphs introducing yourself, or an animal you like, or another topic you care about (2-5 lines)
 
 ### 4. Checkoff with an instructor or TA when you are done.
 
@@ -25,10 +25,10 @@ Go to [w3schools.com](https://www.w3schools.com/html/html_formatting.asp), read 
 ## Lab 2: Attributes
 
 ### 1. Add an image.
-In the same file as Lab 1, add an image of your favorite animal. Set the width and height to 400px.
+In the same file as Lab 1, add an image of you or the animal or the topic you wrote about. Set the width to 400px.
 
 ### 2. Add a link.
-Add a link to the wikipedia page about that animal.
+Add a link to the Wikipedia page about the animal or the topic you're interested in.
 
 ### 3. Use the style attribute.
 Change the color or background-color of one of at least one of your headings.
