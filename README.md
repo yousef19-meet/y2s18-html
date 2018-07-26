@@ -5,7 +5,7 @@
 1. Fork this repository by clicking "Fork" on this page:
 ![forking](https://image.ibb.co/jHRieT/forking.png)
 
-2. Copy this repository's url but clicking the green clone button:
+2. Copy this repository's url by clicking the green clone button:
 ![copying url](https://image.ibb.co/n2wYeT/copying_clone.png)
 
 3. Open you terminal, and clone the repo to your computer( replace Link with link from step 2):
@@ -74,7 +74,21 @@ Remember to add a border and headings!
 ### 3. Check off with an instructor or a TA.
 
 
-## Lab 4: Forms
+## Lab 4: Lists
+
+### 1. Make an unordered list.
+List several of your favorite movies.
+
+### 2. Make an ordered list.
+List several of your favorite books, in order.
+
+### 3. Check off with an instructor or a TA.
+
+### 4. Extra:
+Go to [w3schools.com](https://www.w3schools.com/html/html_lists.asp) and read the page on HTML lists. Change the type of your ordered list, the style of your unordered list, and make a description list.
+
+
+## Lab 5: Forms
 
 ### 1. Create a form with a username and a password.
 
@@ -91,7 +105,7 @@ To the same form, add radio buttons to let the user pick if they are a MEET Staf
 ### Extra:
 On your own, figure out how to use the textarea tag. Add it to your form. 
 
-## Lab 5:
+## Lab 6:
 
 ### 1. Organize your document with div.
 Put the content from Lab 1 in a div with class "intro".
@@ -102,7 +116,7 @@ Put your form in a div with id "form".
 Try using both color, background-color, and text-align.
 
 ### 3. Commit your changes.
-Remember to `git add` your file, and then `git commit -m "your message"` to save it to the local repository.
+Remember to `git add` your file, and then `git commit -m "your message"` to save it to the local repository, and then `git push` to push it to GitHub so it's on the remote server.
 
 ### 4. Check off with an instructor or TA.
 
